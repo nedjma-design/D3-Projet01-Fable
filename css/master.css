@@ -1,0 +1,100 @@
+section {
+line-height : 1.5;
+overflow: hidden;
+}
+
+header {
+  background : #fff url('images/image04.jpg');
+  background-size: cover;
+  display: flex;
+  padding-top: 250px;
+  padding-bottom: 250px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+
+}
+
+#fable01 {
+  min-height: 80vh;
+  text-align : left;
+background: rgb(21, 204, 232) url('images/image01.jpg')no-repeat 50% center;
+background-size: cover;
+}
+
+#fable01 h2 {
+background-color: rgb(21, 204, 232, 0.5);
+
+}
+
+#fable01 p {
+  margin-left: 10vw;
+  margin-right: 20vw;
+}
+
+#fable01 h3 {
+  margin-left: 10vw;
+  margin-right: 20vw;
+}
+
+#fable02 {
+  min-height: 90vh;
+  background: rgb(2, 22, 153) url('images/image02.jpg')no-repeat 25% center;
+  background-size: cover;
+  background-attachment: fixed;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.box {
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+width: 1000px;
+flex-direction: row;
+display: flex;
+justify-content: space-between;
+}
+
+.box div {
+  flex-basis: 500px;
+  margin: 12px;
+}
+
+#fable02 h2 {
+background-color: rgb(2, 22, 153, 0.5);
+}
+
+
+
+
+
+
+
+#fable03 {
+  min-height: 100vh;
+
+    text-align : right;
+    background: rgb(242, 219, 160) url('images/image03.jpg')no-repeat 55% center;
+    background-size: cover;
+
+}
+#fable03 h2 {
+background-color: rgb(242, 219, 160, 0.5);
+}
+#fable03 p {
+  margin-left: 20vw;
+  margin-right: 10vw;
+}
+#fable03 h3 {
+  margin-left: 20vw;
+  margin-right: 10vw;
+}
+
+#text-content {
+  flex-basis: 500px;
+}

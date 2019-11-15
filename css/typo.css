@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Euphoria+Script|Liu+Jian+Mao+Cao|Raleway|Rye|Staatliches&display=swap');
+
+body {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+h1{
+font-family: 'Staatliches', cursive;
+  font-size : 8em;
+  text-align: center;
+  letter-spacing: 25px;
+color: white;
+border-top: 2px solid white;
+   border-bottom:2px solid white;
+   border-left:2px solid white;
+   border-right:2px solid white;
+
+}
+
+#fable01 h2{
+  font-family: 'Euphoria Script', cursive;
+  font-size : 3em;
+  margin-top: 0;
+/*  overflow: hidden;
+  margin: 0; */
+}
+#fable01 h3{
+  font-family: 'Euphoria Script', cursive;
+  font-size : 1.5em;
+  margin-top: 0;
+}
+
+  #fable02 h2{
+  font-family: 'Liu Jian Mao Cao', cursive;
+    font-size : 3em;
+    margin-top: 0;
+}
+
+#fable02 h3{
+font-family: 'Liu Jian Mao Cao', cursive;
+  font-size : 1.5em;
+  margin-top: 0;
+}
+
+#fable03 h2{
+  font-family: 'Rye', cursive;
+  font-size : 3em;
+  margin-top: 0;
+}
+
+#fable03 h3{
+  font-family: 'Rye', cursive;
+  font-size : 1em;
+  margin-top: 0;
+}
