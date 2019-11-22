@@ -6,22 +6,28 @@ body {
   margin-left: auto;
   margin-right: auto;
 
+
 }
 
-h1{
-font-family: 'Staatliches', cursive;
-  font-size : 8em;
-  text-align: center;
-  letter-spacing: 25px;
-color: white;
-border-top: 4px solid white;
-border-bottom:4px solid white;
-   border-left:4px solid white;
-   border-right:4px solid white;
-padding-left: 40px;
-padding-right: 20px;
-
-
+.title{
+min-width: 1000px;
+  font-weight: 800;
+  color: transparent;
+  font-size:120px;
+  background: url('images/image04.jpg') repeat;
+  background-position: 40% 50%;
+  -webkit-background-clip: text;
+  position:relative;
+  text-align:center;
+  font-family: 'Staatliches', cursive;
+    font-size : 8em;
+    text-align: center;
+    letter-spacing: 25px;
+  border-top: 4px solid #040b1b;
+border-bottom: 4px solid #040b1b;
+border-left: 4px solid #040b1b;
+border-right: 4px solid #040b1b;
+   padding: 0.25em;
 }
 
 #fable01 h2{
